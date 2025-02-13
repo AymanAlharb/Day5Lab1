@@ -83,7 +83,7 @@ public class Main {
 //        String str = input.nextLine();
 //        System.out.println("Please input a number: ");
 //        int num = input.nextInt();
-//        //Used the build in method charAt to access the character at the index.
+//        //Used the built in method charAt to access the character at the index.
 //        System.out.println(str.charAt(num));
         //-------------------------------------------------------------------
 //        10. Write a Java program to print the area and perimeter of a rectangle
